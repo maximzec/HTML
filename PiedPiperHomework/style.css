@@ -83,3 +83,18 @@ nav li {
   margin-left: auto;
   margin-right: auto;
 }
+
+.text-wrapper > h1 {
+  color: #007765;
+  font-weight: 600;
+  size: 64px;
+  font-family: Roboto, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.problem-paragraph {
+  font-family: Roboto, sans-serif;
+  size: 32px;
+  font-weight: 600;
+}
